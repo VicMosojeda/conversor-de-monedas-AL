@@ -1,0 +1,3 @@
+com/mycompany/conversordemonedas/model/ApiRequest.class
+com/mycompany/conversordemonedas/exception/TargetCurrencyNotFoundException.class
+com/mycompany/conversordemonedas/Conversordemonedas.class
