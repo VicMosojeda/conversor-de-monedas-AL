@@ -52,7 +52,7 @@ Este proyecto es una aplicación de consola que permite convertir cantidades ent
     </dependencies>
   </project>
 
-## Luego instala las dependencias:
+- **Luego instala las dependencias:**
 
    ```bash
    mvn clean install
